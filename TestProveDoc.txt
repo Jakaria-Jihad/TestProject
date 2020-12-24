@@ -1,0 +1,1 @@
+If this message shows on github then it means that this test is passed.
