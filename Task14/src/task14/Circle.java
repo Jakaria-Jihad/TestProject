@@ -20,7 +20,7 @@ public class Circle extends Shape{
 		 Scanner sc = new Scanner(System.in);
 		 System.out.println("Enter radius of circle - ");
 		 radius= sc.nextDouble();
-		areaCircle= 2*PI*radius;
+		areaCircle= radius*PI*radius;
 		System.out.println("Circle area is - " + areaCircle + "\n");
 	}
 
