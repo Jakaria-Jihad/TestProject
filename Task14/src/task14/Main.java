@@ -12,6 +12,8 @@ public class Main {
 		r.getArea();
 		Shape c = new Circle("red");
 		c.getArea();
+		TestGitClass obj = new TestGitClass();
+		obj.TestGitClass();
 
 	}
 
